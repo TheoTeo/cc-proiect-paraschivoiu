@@ -1,3 +1,6 @@
+Student: PARASCHIVOIU Adriana-Teodora
+Grupa 1120, An 1
+
 LINK-URI
 1.	Video prezentare proiect: https://youtu.be/FaawMAi6haU 
 2.	Link publicare Vercel: https://cc-proiect-paraschivoiu-4ulnxkm15-theoteo.vercel.app/
