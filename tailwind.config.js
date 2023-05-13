@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class',
   content: [
     './pages/**/*.{js,ts,jsx,tsx,mdx}',
     './components/**/*.{js,ts,jsx,tsx,mdx}',
@@ -13,7 +14,20 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+
+      colors: {
+        // ...
+        'tahiti': {
+          grey: '#6B7280',
+          light: '#FDF2F8',
+          DEFAULT: '#99154B',
+          dark: '#751A3D',
+        },
+        // ...
+      },
+
     },
+
   },
   plugins: [],
 }
